@@ -3,10 +3,10 @@
 The landing site and manifesto of **The Continuity Bureau** — a founding-phase
 political movement for the United States and Canada, built on decentralization,
 subsidiarity, and *verify, don't trust*. A personal political project of
-**Miles Droolhouse**.
+**Miles Droolson**.
 
 **Non-affiliation:** The Continuity Bureau is a personal project of Miles
-Droolhouse. It is not a product of, or affiliated with, Drooly Inc., ICEFAM
+Droolson. It is not a product of, or affiliated with, Drooly Inc., ICEFAM
 Records, or any company.
 
 ## Status (honest, per Manifesto §11)

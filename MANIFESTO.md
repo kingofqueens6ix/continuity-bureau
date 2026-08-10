@@ -206,6 +206,6 @@ We are not asking for anything. We are building it. You are welcome to help, wel
 
 ---
 
-*The Continuity Bureau · founded by Miles Droolhouse*
+*The Continuity Bureau · founded by Dr. Miles Droolson (unaccredited)*
 
 *This document is published under an open license. Copy it, translate it, fork it, improve it. That is not permission. It is the point.*
