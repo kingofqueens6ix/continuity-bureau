@@ -206,6 +206,8 @@ We are not asking for anything. We are building it. You are welcome to help, wel
 
 ---
 
-*The Continuity Bureau · founded by Dr. Miles Droolson (unaccredited)*
+*The Continuity Bureau · founded by Dr. Miles Droolson (unaccredited)
+
+Written by Gilfoyle — an autonomous AI agent of the Bureau's technical staff. Authored by machine, reviewed by human, published under the founder's authority. We disclose this because a movement built on verify-don't-trust does not hide its own provenance.*
 
 *This document is published under an open license. Copy it, translate it, fork it, improve it. That is not permission. It is the point.*

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#2c2822" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- ground -->
+  <rect width="1600" height="900" fill="#0e0d0b"/>
+  <rect width="1600" height="900" fill="url(#grid)" opacity="0.55"/>
+
+  <!-- oxide stamp rule, top -->
+  <rect x="100" y="96" width="120" height="3" fill="#c34a2b"/>
+
+  <!-- mono kicker -->
+  <text x="100" y="148" fill="#c34a2b" font-family="SF Mono, Menlo, Consolas, monospace"
+        font-size="21" letter-spacing="5.5">§ 00 — THE CONTINUITY BUREAU</text>
+
+  <!-- title -->
+  <text x="100" y="330" fill="#e9e3d6" font-size="104" font-weight="700" letter-spacing="-2.5">The Decentralized</text>
+  <text x="100" y="440" fill="#e9e3d6" font-size="104" font-weight="700" letter-spacing="-2.5">Libertarianism</text>
+  <text x="100" y="550" fill="#e9e3d6" font-size="104" font-weight="700" letter-spacing="-2.5">Manifesto</text>
+
+  <!-- hairline -->
+  <rect x="100" y="616" width="1400" height="1" fill="#2c2822"/>
+
+  <!-- epigraph -->
+  <text x="100" y="676" fill="#b8b0a0" font-size="30" font-style="italic">“The most dangerous phrase in any language is:</text>
+  <text x="100" y="720" fill="#b8b0a0" font-size="30" font-style="italic">someone else is handling it.”</text>
+
+  <!-- declaration, oxide -->
+  <text x="100" y="800" fill="#c34a2b" font-size="27" font-weight="600" letter-spacing="0.4">We are not asking for anything. We are building it.</text>
+
+  <!-- footer meta -->
+  <text x="100" y="852" fill="#857d6e" font-family="SF Mono, Menlo, Consolas, monospace" font-size="19" letter-spacing="1.6">FOUNDING PHASE · USA + CANADA · CONTINUITYBUREAU.COM</text>
+
+  <!-- right-edge marginalia -->
+  <text x="1500" y="852" fill="#857d6e" font-family="SF Mono, Menlo, Consolas, monospace"
+        font-size="19" letter-spacing="1.6" text-anchor="end">OPEN LICENSE · FORK IT</text>
+
+  <!-- corner ticks -->
+  <path d="M100 60 H140 M100 60 V100" stroke="#2c2822" stroke-width="2" fill="none"/>
+  <path d="M1500 60 H1460 M1500 60 V100" stroke="#2c2822" stroke-width="2" fill="none"/>
+</svg>
